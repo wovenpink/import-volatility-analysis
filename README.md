@@ -63,6 +63,25 @@ This project was created as a learning exercise in time-based dataanalysis, feat
 
 ---
 
+## How to Run This Notebook
+
+### Option 1: Run locally (Anaconda / Jupyter)
+1. Download or clone this repository
+2. Make sure the following files are in the same folder:
+   - `import_volatility_analysis.ipynb`
+   - `imports_monthly_by_country.csv`
+3. Open Anaconda Navigator
+4. Launch **Jupyter Notebook**
+5. Open `import_volatility_analysis.ipynb`
+6. Click **Kernel → Restart & Run All**
+
+### Option 2: Run in Google Colab (no installation)
+1. Open the notebook file in this repo
+2. Click **Download** (or copy the notebook URL)
+3. Go to Google Colab and open the notebook
+4. Upload `imports_monthly_by_country.csv` into the Colab session
+5. Run all cells
+---
 ## Author
 Kenya Moorer
 
